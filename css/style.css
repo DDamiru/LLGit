@@ -1,0 +1,11 @@
+.wrapper{
+    
+    background-color:goldenrod;
+    display:inline-flex;
+}
+.bl{
+    
+    background-color:olivedrab;
+    margin:10px;
+    padding: 10px;
+    }
