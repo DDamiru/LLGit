@@ -1,11 +1,33 @@
 .wrapper{
+    border: 3px solid red ;
+    padding:10px;
+    display:flex;
     
-    background-color:goldenrod;
-    display:inline-flex;
 }
-.bl{
-    
-    background-color:olivedrab;
+.first{
+    background-color:green;
     margin:10px;
-    padding: 10px;
-    }
+    padding:10px;
+}
+.second{
+    background-color:blueviolet;
+    margin:10px;
+    padding:10px;
+}
+
+.third{
+    background-color:yellow;
+    margin:10px;
+    padding:10px;
+}
+
+.forth{
+    background-color:orangered;
+    margin:10px;
+    padding:10px;
+}
+.fifth{
+    background-color:burlywood;
+    margin:10px;
+    padding:10px;
+}
