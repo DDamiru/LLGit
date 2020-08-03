@@ -1,5 +1,5 @@
-var today = new Date();
-var hourNow = today.getHours();
+var today = new Date(); // конструктор даты(текущее местное время)
+var hourNow = today.getHours();// возьми часы с конструктора даты
 var greeting;
 if(hourNow > 18) {
     greeting = "Good morning!";
@@ -8,4 +8,4 @@ if(hourNow > 18) {
 } else {
     greeting = "Good evening!";
 }
-document.write("<h3>" + greeting + "</h3>")
+document.write("<h3>" + greeting + "</h3>");
